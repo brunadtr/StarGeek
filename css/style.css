@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:ital,wght@1,300;1,700&family=Satisfy&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Chakra Petch';
+}
+main{
+    width: 1300px;
+}
+.logo{
+    height: 100%;
+}
+.logo > img{
+    height: 30%;
+    width: 30%;
+}
+body{
+    background: rgb(29,36,226);
+    background: radial-gradient(103.52% 103.52% at 13.58% 82.81%, #080FC7 0%, #150D34 100%);
+    color: white;
+}
+.principal{
+    background-color: rgba(87, 75, 255, 0.481);
+    width: 600px;
+    height: 650px;
+    text-align: center;
+    padding: 70px;
+    border-radius: 8px;
+    margin: 0 auto;
+    background: rgba(51, 0, 255, 0.27);
+    border: 6.44351px solid rgba(9, 10, 51, 0.581);
+    border-radius: 11.9665px;
+}
+.formulario > input{
+    background-color: rgba(45, 52, 210, 0.92);
+    border: 1px solid rgb(10, 10, 70);
+    width: 350px;
+    height: 35px;
+    border-radius: 3px;
+    margin: 15px;
+}
+.entrar{
+    margin-top: 10px;
+    width: 100%;
+}
+.botao-entrar{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(270deg, #000AFF 17.61%, rgba(0, 0, 0, 0.63) 100%);
+    border: 1px solid #1F0F5B;
+    border-radius: 4px;
+    width: 50%;
+    padding: 5px 120px;
+}
+.termos-privacidade{
+    margin-top: 20px;
+    display: flex;
+    font-size: small;
+    justify-content: left;
+}
+.lembrar-senha{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    margin-top: 20px;
+}
+.lembrar-senha > a{
+    text-decoration: none;
+    color: white;
+
+}
+.principal > p{
+    font-size: small;
+    margin-top: 50px;
+    color: gray;
+}
+.principal > p > a{
+    text-decoration: none;
+    color: rgb(94, 129, 255);
+}
+
+.div-logo{
+    width: 1400px;
+    text-align: center;
+    height: 800px;
+}
+hr{
+    border: 5px solid #4B3E80;
+}
+.logo-inicio{
+    margin-top: 200px;
+    width: 1000px;
+}
+.filmes-fundo{
+    background-image: url(/img/img-fundo2.png);
+    width: 100%;
+    background-size: cover;
+}
+.filmes-fundo > img{
+    width: 100%;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+}
+.filmes-fundo > .cabecalho > select{
+    color: white;
+    width: 100px;
+    background-color:#0008ff3b;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
