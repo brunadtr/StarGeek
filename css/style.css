@@ -30,7 +30,7 @@ body{
 }
 .principal{
     background-color: rgba(87, 75, 255, 0.481);
-    width: 600px;
+    max-width: 600px;
     height: 650px;
     text-align: center;
     padding: 70px;
@@ -77,6 +77,9 @@ body{
     border-radius: 4px;
     width: 50%;
     padding: 5px 120px;
+}
+.botao-entrar:hover{
+    background: linear-gradient(-270deg, #000AFF 17.61%, rgba(0, 0, 0, 0.63) 100%);
 }
 .termos-privacidade{
     margin-top: 20px;
@@ -166,6 +169,9 @@ hr{
     padding-top: 6px;
     margin: 50px;
 }
+.botao-cabecalho:hover{
+    background-color: #171a78;
+}
 .div-cadastro{
     display: flex;
     justify-content: center;
@@ -185,6 +191,7 @@ hr{
 }
 .texto-filmes > div > label{
     font-size:medium;
+    margin: 460px;
 }
 .div-cadastro > input{
     background-color: rgba(28, 34, 146, 0.403);
@@ -205,6 +212,9 @@ hr{
     color: white;
     padding: 4px 20px;
     border-radius: 4px;
+}
+.div-cadastro > a:hover{
+    background-color: #171a78;
 }
 
 .informacoes{
@@ -545,6 +555,15 @@ nav > ul > li > a:hover{
     .novo-cat > img{
         width: 450px;
         height: 250px;
+    }
+    .principal{
+        padding: 0;
+    }
+    .titulos{
+        height:100%
+    }
+    .texto-filmes > div > label{
+        margin: 0;
     }
 
 }
