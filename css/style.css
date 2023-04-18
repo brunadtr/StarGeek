@@ -529,6 +529,20 @@ nav > ul > li > a:hover{
     content: url(/img/gif-paraiso.gif);
     border-radius: 8px;
 }
+
+/* Musicas */
+.starboy:hover{
+    content: url(/img/gif-starboy.gif);
+    border-radius: 8px;
+}
+.astroworld:hover{
+    content: url(/img/gif-astroworld.gif);
+    border-radius: 8px;
+}
+.bruno:hover{
+    content: url(/img/gif-brunomars.gif);
+    border-radius: 8px;
+}
 @media(max-width:500px){
     .informacoes{
         flex-direction: column;
