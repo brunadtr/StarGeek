@@ -126,7 +126,7 @@ hr{
     max-width: 1000px;
 }
 .filmes-fundo{
-    background-image: url(/img/img-fundo2.png);
+    background-image: url(../img/img-fundo2.png);
     width: 100%;
     background-size: cover;
 }
@@ -434,113 +434,113 @@ nav > ul > li > a:hover{
 
 /* Hover desenhos*/
 .soul:hover{
-    content: url(/img/gif-soul.gif);
+    content: url(../img/gif-soul.gif);
     border-radius: 8px;
 }
 .enrolados:hover{
-    content: url(/img/gif-enrolados.gif);
+    content: url(../img/gif-enrolados.gif);
     border-radius: 8px;
 }
 .luca:hover{
-    content: url(/img/gif-luca.gif);
+    content: url(../img/gif-luca.gif);
     border-radius: 8px;
 }
 .toy:hover{
-    content: url(/img/gif-toy.gif);
+    content: url(../img/gif-toy.gif);
     border-radius: 8px;
 }
 .monstros:hover{
-    content: url(/img/gif-monstros.gif);
+    content: url(../img/gif-monstros.gif);
     border-radius: 8px;
 }
 .encanto:hover{
-    content: url(/img/gif-encanto.gif);
+    content: url(../img/gif-encanto.gif);
     border-radius: 8px;
 }
 .carros:hover{
-    content: url(/img/gif-carros.gif);
+    content: url(../img/gif-carros.gif);
     border-radius: 8px;
 }
 
 /* Hover Séries*/
 .euphoria:hover{
-    content: url(/img/gif-euphoria.gif);
+    content: url(../img/gif-euphoria.gif);
     border-radius: 8px;
 }
 .sandman:hover{
-    content: url(/img/gif-sandman.gif);
+    content: url(../img/gif-sandman.gif);
     border-radius: 8px;
 }
 .dark:hover{
-    content: url(/img/gif-dark.gif);
+    content: url(../img/gif-dark.gif);
     border-radius: 8px;
 }
 .anne:hover{
-    content: url(/img/gif-anne.gif);
+    content: url(../img/gif-anne.gif);
     border-radius: 8px;
 }
 .bridgerton:hover{
-    content: url(/img/gif-bridgerton.gif);
+    content: url(../img/gif-bridgerton.gif);
     border-radius: 8px;
 }
 .loki:hover{
-    content: url(/img/gif-loki.gif);
+    content: url(../img/gif-loki.gif);
     border-radius: 8px;
 }
 .wanda:hover{
-    content: url(/img/gif-wanda.gif);
+    content: url(../img/gif-wanda.gif);
     border-radius: 8px;
 }
 .modern:hover{
-    content: url(/img/gif-modern.gif);
+    content: url(../img/gif-modern.gif);
     border-radius: 8px;
 }
 
 /* Hover filmes */
 .love:hover{
-    content: url(/img/gif-love.gif);
+    content: url(../img/gif-love.gif);
     border-radius: 8px;
 }
 .bright:hover{
-    content: url(/img/gif-bright.gif);
+    content: url(../img/gif-bright.gif);
     border-radius: 8px;
 }
 .avatar:hover{
-    content: url(/img/gif-avatar.gif);
+    content: url(../img/gif-avatar.gif);
     border-radius: 8px;
 }
 .vingadores:hover{
-    content: url(/img/gif-vingadores.gif);
+    content: url(../img/gif-vingadores.gif);
     border-radius: 8px;
 }
 .everyday:hover{
-    content: url(/img/gif-everyday.gif);
+    content: url(../img/gif-everyday.gif);
     border-radius: 8px;
 }
 .culpa:hover{
-    content: url(/img/gif-culpa.gif);
+    content: url(../img/gif-culpa.gif);
     border-radius: 8px;
 }
 .titanic:hover{
-    content: url(/img/gif-titanic.gif);
+    content: url(../img/gif-titanic.gif);
     border-radius: 8px;
 }
 .paraiso:hover{
-    content: url(/img/gif-paraiso.gif);
+    content: url(../img/gif-paraiso.gif);
     border-radius: 8px;
 }
 
 /* Musicas */
 .starboy:hover{
-    content: url(/img/gif-starboy.gif);
+    content: url(../img/gif-starboy.gif);
     border-radius: 8px;
 }
 .astroworld:hover{
-    content: url(/img/gif-astroworld.gif);
+    content: url(../img/gif-astroworld.gif);
     border-radius: 8px;
 }
 .bruno:hover{
-    content: url(/img/gif-brunomars.gif);
+    content: url(../img/gif-brunomars.gif);
     border-radius: 8px;
 }
 @media(max-width:500px){
